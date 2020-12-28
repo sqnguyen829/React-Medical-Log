@@ -1,0 +1,12 @@
+{
+  "user":{
+    "id":1,
+    "firstName":"Steven",
+    "lastName":"Nguyen",
+    "username":"admin",
+    "email":"admin@gmail.com",
+    "age":31,
+    "weight":215,
+    "height":69
+  }
+}
